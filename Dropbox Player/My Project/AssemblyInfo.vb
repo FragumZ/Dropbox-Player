@@ -11,11 +11,11 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("Dropbox Player")> 
-<Assembly: AssemblyDescription("Dropbox Player")> 
-<Assembly: AssemblyCompany("MineUK")> 
-<Assembly: AssemblyProduct("Dropbox Player")> 
-<Assembly: AssemblyCopyright("MineUK 2012-2013")> 
-<Assembly: AssemblyTrademark("MineUK 2012-2013")> 
+<Assembly: AssemblyDescription("This is a quick experiment with the dropbox api with vb.net")> 
+<Assembly: AssemblyCompany("MineEU")> 
+<Assembly: AssemblyProduct("Dropbox Player V1")> 
+<Assembly: AssemblyCopyright("MineEU 2013")> 
+<Assembly: AssemblyTrademark("MineEU 2013")> 
 
 <Assembly: ComVisible(False)> 
 
