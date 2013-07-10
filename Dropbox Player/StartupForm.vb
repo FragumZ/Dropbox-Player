@@ -1,4 +1,7 @@
-﻿Public Class StartupForm
+﻿' Dropbox Player - A Quick Experiment With Dropbox API
+' Copyright (C) 2013 Graham Campbell
+
+Public Class StartupForm
 
     Private Sub StartupForm_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         If My.Settings.First = True Then

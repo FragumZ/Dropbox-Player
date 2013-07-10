@@ -1,6 +1,7 @@
-﻿Imports DropNet
-Imports DropNet.Models
-Imports DropNet.Exceptions
+﻿' Dropbox Player - A Quick Experiment With Dropbox API
+' Copyright (C) 2013 Graham Campbell
+
+Imports DropNet, DropNet.Models, DropNet.Exceptions
 
 Public Class PlayerForm
 
