@@ -51,3 +51,7 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the Don't Be A Dick Public License for more details.  
   
 You should have received a copy of the Don't Be A Dick Public License along with this program.  If not, see http://www.dbad-license.org/.  
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/GrahamCampbell/dropbox-player/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
